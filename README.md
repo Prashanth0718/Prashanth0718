@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **React, Vue**
+- 💬 Ask me about **React or Vite + React**
 
 - 📫 How to reach me **prashanthsn2003@gmail.com**
 
