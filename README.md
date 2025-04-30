@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio-Website**
+- 🔭 I’m currently working on **Chatbot for Museum Ticket Bokking**
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **React or Vite + React**
+- 🌐 All of my projects can be found at my portfolio - [https://prashanth-s-n.netlify.app](https://prashanth-s-n.netlify.app/)
+
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **prashanthsn2003@gmail.com**
 
